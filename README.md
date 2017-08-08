@@ -7,4 +7,4 @@ TableView
 compile 'com.solarexsoft.solarextableview:solarextableview:1.0.0'
 ```
 
-类似课程格子，实现了View的回收以及再利用。
+类似课程格子，实现了View在上下左右方向滑动出屏幕时的回收以及再利用。
