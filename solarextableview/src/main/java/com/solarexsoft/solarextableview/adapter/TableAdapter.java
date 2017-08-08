@@ -22,6 +22,6 @@ public interface TableAdapter {
     View getView(int row, int column, View convertView, ViewGroup parent);
     int getWidth(int column);
     int getHeight(int row);
-    int getViewType(int row,int column);
+    int getItemViewType(int row,int column);
     int getViewTypeCount();
 }
